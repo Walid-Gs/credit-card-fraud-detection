@@ -72,7 +72,9 @@ Target:
 
 ### Class Distribution
 
-INSERT IMAGE HERE
+<p align="center">
+  <img src="images/class_distribution.PNG" width="800">
+</p>
 
 Key Finding:
 
@@ -82,7 +84,9 @@ The dataset is extremely imbalanced, with fraudulent transactions representing l
 
 ### Transaction Amount Analysis
 
-INSERT IMAGE HERE
+<p align="center">
+  <img src="images/amount_distribution.png" width="800">
+</p>
 
 Key Finding:
 
@@ -92,7 +96,9 @@ Fraudulent transactions tend to occur more frequently among lower transaction am
 
 ### Correlation Analysis
 
-INSERT IMAGE HERE
+<p align="center">
+  <img src="images/heatmqo.PNG" width="800">
+</p>
 
 Key Finding:
 
@@ -108,7 +114,9 @@ To address severe class imbalance:
 * Minority class samples were synthetically generated
 * Model learning improved significantly
 
-INSERT SMOTE IMAGE HERE
+<p align="center">
+  <img src="images/smote.PNG" width="800">
+</p>
 
 ---
 
@@ -177,7 +185,9 @@ Architecture:
 * Dropout Regularization
 * Binary Classification Output
 
-INSERT TRAINING CURVE IMAGE HERE
+<p align="center">
+  <img src="images/loss vs.PNG" width="800">
+</p>
 
 ---
 
@@ -196,19 +206,23 @@ Metrics Used:
 
 ## ROC Curve Comparison
 
-INSERT ROC CURVE IMAGE HERE
+<p align="center">
+  <img src="images/ruccurve.PNG" width="800">
+</p>
 
 ---
 
 ## AUC Score Comparison
 
-INSERT AUC TABLE IMAGE HERE
+<p align="center">
+  <img src="images/auc_comparaison.PNG" width="800">
+</p>
 
 ---
 
 ## Final Model Comparison
 
-INSERT FINAL MODEL COMPARISON IMAGE HERE
+
 
 ---
 
